@@ -681,6 +681,8 @@ public class BitcoinNetworkService extends AbstractService {
       return true;
     }
 
+    isClientFeeRequired = false;
+
     // May need to add the client fee
     sendRequestSummary.setApplyClientFee(isClientFeeRequired);
     if (isClientFeeRequired) {
