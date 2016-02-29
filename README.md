@@ -1,5 +1,5 @@
 
-Build status: [![Build Status](https://travis-ci.org/bitcoin-solutions/multibit-hd.png?branch=develop)](https://travis-ci.org/bitcoin-solutions/multibit-hd)
+Build status: [![Build Status](https://drone.io/bitbucket.org/GreedyJ/multibit-hd_free/status.png)](https://drone.io/bitbucket.org/GreedyJ/multibit-hd_free/latest)
 
 Project status: Pre-release. Expect minor bugs and UI adjustments. Suitable for small scale production.
 
